@@ -105,8 +105,8 @@ The most technically involved independent project — a fully browser-based, zer
 - Patient demographics parsed from real FHIR Patient JSON (`name[]`, `identifier[]` MRN, DOB, gender)
 - Open source under MIT licence
 
-**Live demo:** `https://jythakur.github.io/fhir-platform/`
-**Separate repo:** `https://github.com/JyThakur/fhir-platform`
+**Live demo:** `https://jythakur.github.io/fhir-platform-sandbox/`
+**Separate repo:** `https://github.com/JyThakur/fhir-platform-sandbox`
 
 ---
 
@@ -118,10 +118,9 @@ This portfolio is deployed via **GitHub Pages** from the `main` branch root.
 
 ```bash
 # 1. Clone or create the repo
-git clone https://github.com/JyThakur/YOUR_REPO.git
+git clone https://github.com/JyThakur/JayThakur_HealthTechIntegration_India
 
-# 2. Add all files (rename index_portfolio.html → index.html)
-cp index_portfolio.html index.html
+# 2. Add all files
 git add .
 git commit -m "Initial portfolio deploy"
 git push origin main
@@ -132,12 +131,12 @@ git push origin main
 
 **Live URL:**
 ```
-https://jythakur.github.io/
+https://jythakur.github.io/JayThakur_HealthTechIntegration_India/
 ```
 
 ### File naming note
 
-The main portfolio file is saved as `index_portfolio.html` in this repository. **Rename it to `index.html`** before uploading to GitHub Pages — GitHub Pages serves `index.html` as the root page automatically.
+The main portfolio file is saved as `index.html` in this repository and the FHIR platform is named as `fhir_platform_main_page.html`.
 
 ---
 
@@ -162,7 +161,7 @@ The main portfolio file is saved as `index_portfolio.html` in this repository. *
 |---|---|---|---|
 | MSc Data Science | Kingston University London | London, UK | Merit |
 | PG Diploma in Data Science | IIIT Bangalore | Bangalore, India | CGPA 3.29/4.0 |
-| BEng Computer Science | NBN Sinhgad School of Engineering | Pune, India | — |
+| BEng Computer Science | NBN Sinhgad School of Engineering | Pune, India | 6.64/10.0 |
 
 ---
 
@@ -170,10 +169,10 @@ The main portfolio file is saved as `index_portfolio.html` in this repository. *
 
 | Platform | URL |
 |---|---|
-| Portfolio | https://jythakur.github.io |
+| Portfolio | https://jythakur.github.io/JayThakur_HealthTechIntegration_India/ |
 | LinkedIn | https://www.linkedin.com/in/jaythakur37/ |
 | GitHub | https://github.com/JyThakur |
-| FHIR Platform | https://github.com/JyThakur/fhir-platform |
+| FHIR Platform | https://jythakur.github.io/fhir-platform-sandbox/ |
 
 ---
 
